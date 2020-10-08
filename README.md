@@ -21,3 +21,7 @@ Aluno :  Daniel Pedrosa Santos 			R.A.: 1460281723011
 	https://www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html?=&t=notas-tecnicas
 	https://www.aneel.gov.br/pt/relatorios-de-consumo-e-receita
 	https://canaltech.com.br/produtos/brasil-ja-tem-mais-de-um-smartphone-ativo-por-habitante-112294/#:~:text=Os%20n%C3%BAmeros%20s%C3%A3o%20da%20Funda%C3%A7%C3%A3o,dados%20mais%20recentes%20do%20IBGE.
+	http://www.abepro.org.br/biblioteca/enegep2001_tr51_0009.pdf
+	http://dadosenergeticos.energia.sp.gov.br/portalcev2/intranet/BiblioVirtual/eletrica/Resumo_Executivo_EE.pdf
+	https://repositorio.unesp.br/bitstream/handle/11449/155293/000881440.pdf?sequence=1&isAllowed=y
+	http://www.procelinfo.com.br/main.asp?View=%7B5A08CAF0%2D06D1%2D4FFE%2DB335%2D95D83F8DFB98%7D&Team=&params=itemID=%7B61AB1CD8%2D98AA%2D4D67%2DA7F0%2D16431DA0F730%7D%3B&UIPartUID=%7B05734935%2D6950%2D4E3F%2DA182%2D629352E9EB18%7D
