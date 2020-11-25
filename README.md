@@ -1,12 +1,12 @@
 # MetodologiaPesquisa
-Material para aula Metodologia Pesquisa - TG
+<h3>Material para aula Metodologia Pesquisa - TG </h3>
 
-Aluno :  Daniel Pedrosa Santos 			R.A.: 1460281723011
+<h2>Aluno :</h2>  Daniel Pedrosa Santos 			<h2>R.A.:</h2> 1460281723011
 
- - 1: Problema :
+<h1>Problema</h1>
 	Consumo desnecessário de energia em iluminação nas residências e/ou pequenos comércios.
 
- - 2: Motivação
+<h1>Motivação</h1>
 	Considerando que o gasto com iluminação elétrica em residências no Brasil seja em torno 3 a 3,5% do gasto total com energia elétrica em uma residência seja gasto com iluminação e que este (consumo em energia elétrica), seja um item muito importante a todos não apenas no Brasil e sim em todo mundo, podemos considerar que o percentual seja sim algo relevante no todo e que sim deva ser olhado com outros olhos e ter o seu potencial econômico e ambiental relevantes a todos seja diretamente ou indiretamente.
 	“A análise baseia-se em dados obtidos através de pesquisa por amostragem, elaborada pelo PROCEL/Eletrobrás em 5625 residências, distribuídas em 18 Estados e o Distrito Federal, no ano de 2005, abrangendo 85,5% do território nacional. Foi calculado o consumo de energia elétrica no setor residencial brasileiro considerando os seguintes equipamentos: refrigerador, freezer, ar condicionado, televisor, iluminação, aparelho de som, micro computador, ferro elétrico, lava roupa, lava louça, secadora de roupa, forno microondas, forno elétrico e torneira elétrica. O consumo de energia foi calculado para duas épocas do ano, verão e inverno. Isso foi possível porque o uso de ar condicionado e chuveiro elétrico, equipamentos que são influenciados pelo clima, foi apresentado separadamente para as duas estações. Observou-se que o consumo médio de energia elétrica nas residências brasileiras foi de 152,2 kWh/mês, mas há grande variação no país. A região Sul apresentou o maior consumo residencial entre as regiões geográficas brasileiras atingindo o valor de 273,1 kWh/mês no verão e 261,3 kWh/mês no inverno. O menor consumo foi registrado na região Norte com 96,5 kWh/mês no verão e 81,0 kWh/mês no inverno. Na Zona Bioclimática 1 (temperaturas mais baixas), o consumo médio no verão atingiu 310,6 kWh/mês e no inverno 280,7 kWh/mês. As residências localizadas na Zona 7 (temperaturas mais altas) consomem em média 86,9 kWh/mês e 104,4 kWh/mês, respectivamente, no verão e no inverno. Com relação aos usos finais, no verão o ar condicionado representa 9% do consumo total de uma residência em regiões de temperaturas mais baixas, enquanto em zonas mais quentes representa 5%. Já o chuveiro foi responsável por 37% do consumo total no verão e 45% no inverno na Zona 1; e 1% do total no verão e 6% no inverno na Zona 7. O consumo dos demais equipamentos eletrônicos não apresenta grandes variações; em média o consumo ficou distribuído em 5,5% para iluminação, 31% para refrigerador e freezer, e 17% para os demais equipamentos eletrônicos.” 
 (http://labeee.ufsc.br/node/480#:~:text=Observou%2Dse%20que%20o%20consumo,3%20kWh%2Fm%C3%AAs%20no%20inverno.)
