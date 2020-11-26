@@ -1,16 +1,16 @@
-# MetodologiaPesquisa
-<h3>Material para aula Metodologia Pesquisa - TG </h3>
+<h3>Desperdício de Energia Elétrica em Residências e Comércio</h3>
 
-<h2>Aluno :</h2>  Daniel Pedrosa Santos 			<h2>R.A.:</h2> 1460281723011
+<h1>Aluno :</h1>  Daniel Pedrosa Santos 			<h1>R.A.:</h1> 1460281723011
 
-<h1>Problema</h1>
+<h2>Problema</h2>
 	Consumo desnecessário de energia em iluminação nas residências e/ou pequenos comércios.
 
+<div>
 <h1>Motivação</h1>
 	Considerando que o gasto com iluminação elétrica em residências no Brasil seja em torno 3 a 3,5% do gasto total com energia elétrica em uma residência seja gasto com iluminação e que este (consumo em energia elétrica), seja um item muito importante a todos não apenas no Brasil e sim em todo mundo, podemos considerar que o percentual seja sim algo relevante no todo e que sim deva ser olhado com outros olhos e ter o seu potencial econômico e ambiental relevantes a todos seja diretamente ou indiretamente.
 	“A análise baseia-se em dados obtidos através de pesquisa por amostragem, elaborada pelo PROCEL/Eletrobrás em 5625 residências, distribuídas em 18 Estados e o Distrito Federal, no ano de 2005, abrangendo 85,5% do território nacional. Foi calculado o consumo de energia elétrica no setor residencial brasileiro considerando os seguintes equipamentos: refrigerador, freezer, ar condicionado, televisor, iluminação, aparelho de som, micro computador, ferro elétrico, lava roupa, lava louça, secadora de roupa, forno microondas, forno elétrico e torneira elétrica. O consumo de energia foi calculado para duas épocas do ano, verão e inverno. Isso foi possível porque o uso de ar condicionado e chuveiro elétrico, equipamentos que são influenciados pelo clima, foi apresentado separadamente para as duas estações. Observou-se que o consumo médio de energia elétrica nas residências brasileiras foi de 152,2 kWh/mês, mas há grande variação no país. A região Sul apresentou o maior consumo residencial entre as regiões geográficas brasileiras atingindo o valor de 273,1 kWh/mês no verão e 261,3 kWh/mês no inverno. O menor consumo foi registrado na região Norte com 96,5 kWh/mês no verão e 81,0 kWh/mês no inverno. Na Zona Bioclimática 1 (temperaturas mais baixas), o consumo médio no verão atingiu 310,6 kWh/mês e no inverno 280,7 kWh/mês. As residências localizadas na Zona 7 (temperaturas mais altas) consomem em média 86,9 kWh/mês e 104,4 kWh/mês, respectivamente, no verão e no inverno. Com relação aos usos finais, no verão o ar condicionado representa 9% do consumo total de uma residência em regiões de temperaturas mais baixas, enquanto em zonas mais quentes representa 5%. Já o chuveiro foi responsável por 37% do consumo total no verão e 45% no inverno na Zona 1; e 1% do total no verão e 6% no inverno na Zona 7. O consumo dos demais equipamentos eletrônicos não apresenta grandes variações; em média o consumo ficou distribuído em 5,5% para iluminação, 31% para refrigerador e freezer, e 17% para os demais equipamentos eletrônicos.” 
 (http://labeee.ufsc.br/node/480#:~:text=Observou%2Dse%20que%20o%20consumo,3%20kWh%2Fm%C3%AAs%20no%20inverno.)
-
+</div>
  - 3: Proposta de Solução
 	Criar um pequeno dispositivo onde com poucos componentes possamos colocar entre a luz e o socket da mesma e este dispositivo, comunicar com aparelho celular seja através de bluetooth ou via o próprio wifi da residência e/ou comercio.
 	Visto que mais de 80 % das residências brasileiras possuem celular e internet (seja fixa e/ou móvel), grande parte dos ocupantes destas residências brasileira possuem mais de 1 aparelho por habitante no Brasil, considerando outros aparelhos como notebook e tablets chega a 1,5 por habitante então utilizando os mesmo como ferramentas em busca de soluções para a população, já teríamos boa parte das ferramentas necessárias para controlar o acionamento/desligamento, gerenciar o tempo acionado (ou menos informar de tempo em tempo que tal lâmpada esta ligada), e/ou efetuar o acionamento/desacionamente com tempo programado buscando assim uma solução simples que irá ajudar economicamene aquela residência e toda a população com a economia de recursos para gerar a energia elétrica.
