@@ -32,15 +32,27 @@ Existem outros equipamentos que permitem controlar lâmpadas via WIFI como Sonof
 <h1>Referências</h1>
 
 Consumo Nacional de Energia elétrica feito pela EMPRESA DE PESQUISA ENERGÉTICA – EPE
+
 	https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/Consumo-Anual-de-Energia-Eletrica-por-classe-nacional
+
 Pesquisa em 2018 disponível no site do IBGE PNAD (Pesquisa Nacional por Amostra de Domicílios) – Quanto a utilização da internet fixa e móvel no Brasil
+
 	https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/27515-pnad-continua-tic-2018-internet-chega-a-79-1-dos-domicilios-do-pais
+
 Analise  Laboratório de Eficiência Energética em Edificações (LabEEE), localizado na Universidade Federal de Santa Catarina – Utilização final da energia Elétrica em uma residência.
-	(http://labeee.ufsc.br/node/480#:~:text=Observou%2Dse%20que%20o%20consumo,3%20kWh%2Fm%C3%AAs%20no%20inverno.)
+
+	http://labeee.ufsc.br/node/480#:~:text=Observou%2Dse%20que%20o%20consumo,3%20kWh%2Fm%C3%AAs%20no%20inverno
+	
 Reportagem apresentada pela Canaltech sobre pesquisa feita pela Fundação Getúlio Vargas com dados do IBGE sobre quantidade de celulares e dispositivos móveis no Brasil.
+
 	https://canaltech.com.br/produtos/brasil-ja-tem-mais-de-um-smartphone-ativo-por-habitante-112294/#:~:text=Os%20n%C3%BAmeros%20s%C3%A3o%20da%20Funda%C3%A7%C3%A3o,dados%20mais%20recentes%20do%20IBGE
+	
 Datasheet do microntrolador ESP32 – Espressif. 
+
 	https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+
 Empresa do dispositivo SONOOF
+
 	https://sonoffbrasil.com.br
+
 
